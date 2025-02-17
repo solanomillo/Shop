@@ -1,0 +1,95 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="h2" />
+            <item index="7" class="java.lang.String" itemvalue="h3" />
+            <item index="8" class="java.lang.String" itemvalue="a" />
+            <item index="9" class="java.lang.String" itemvalue="span" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="W605" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N813" />
+          <option value="N802" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPropertyDefinitionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyRedeclarationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+          <option value="object" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="speech_recognition" />
+          <option value="MiClase.Miclase.variables_clase2" />
+          <option value="bool.name" />
+          <option value="str.grid" />
+          <option value="personas.models.Persona.id" />
+          <option value="personas.models.Domicilio.id" />
+          <option value="personas.models.Persona.objects" />
+          <option value="webDjango.urls.include" />
+          <option value="products.models.Product.objects" />
+          <option value="carts.models.Carts.objects" />
+          <option value="carts.models.Carts.DoesNotExist" />
+          <option value="django.db.models.fields.related.ManyToManyField.all" />
+          <option value="django.db.models.fields.related.ManyToManyField.through" />
+          <option value="carts.models.Carts.cartsproduct_set" />
+          <option value="carts.models.CartsProduct.objects" />
+          <option value="orden.models.Orden.objects" />
+          <option value="django.db.models.fields.related.ForeignKey.total" />
+          <option value="carts.models.Carts.orden_set" />
+          <option value="DirEnvio.models.DireccionEnvio.objects" />
+          <option value="DirEnvio.models.DireccionEnvio.filter" />
+          <option value="django.views.generic.detail.get.objects" />
+          <option value="django.views.generic.detail.get.object" />
+          <option value="users.models.User.direccionenvio_set" />
+          <option value="django.db.models.fields.related.ForeignKey.direccion_envio" />
+          <option value="cursos.models.TblCurso.Objects" />
+          <option value="cursos.models.TblCurso.objects" />
+          <option value="blog.models.Articulo.objects" />
+          <option value="blog.models.Comentario.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>

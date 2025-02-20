@@ -7,18 +7,18 @@
     </ul>
     <div class="page-styling">
     <div class="woocommerce prod-litems section-list">
-        {% for key,value in request.session.cart.items %}
+        {% for value in request.session.cart.values %}
         <article class="prod-li sectls">
             <div class="prod-li-inner">
                 <a href="product.html" class="prod-li-img">
-                    <img src="{{ value.imagen }}" alt="">
+                    <img src="{{value.imagen}}" alt="">
                 </a>
                 <div class="prod-li-cont">
                     <div class="prod-li-ttl-wrap">
                         <p>
                             <a href="#">{{value.categoria}}</a>
                         </p>
-                        <h3><a href="product.html">{{ value.nombre }}</a></h3>
+                        <h3><a href="product.html"></a>{{value.nombre}}</h3>
                     </div><!--
     No Space
     --><div class="prod-li-prices">
@@ -48,7 +48,10 @@ No Space
                         <p class="prod-li-rating-count">12</p>
                     </div>
                     <p class="prod-li-add">
-                        <a href="{% url 'web:eliminarProductoCarrito' value.producto_id %}" class="button hover-label prod-addbtn"><i class="icon ion-close-round"></i><span>Eliminar</span></a>
+                        <a href="{% url 'web:eliminarProductoCarrito' value.producto_id %}" class="button hover-label prod-addbtn">
+                            <i class="icon ion-close-round"></i>
+                            <span>Eliminar</span>
+                        </a>
                     </p>
                     <p class="prod-li-information">
                         <a href="#" class="hover-label"><i class="icon ion-more"></i><span>Show Information</span></a>
@@ -59,13 +62,13 @@ No Space
 
                 <dl class="prod-li-props">
                     <dt>Marca:</dt>
-                    <dd><a href="#">{{value.marca}}</a></dd>
+                    <dd><a href="#"></a></dd>
                     <dt>Peso:</dt>
-                    <dd>{{value.peso}} kg</dd>
+                    <dd> kg</dd>
                     <dt>Dimensiones:</dt>
-                    <dd>{{value.dimension}}</dd>
+                    <dd></dd>
                     <dt>Сolor:</dt>
-                    <dd>{{value.color}}</dd>
+                    <dd></dd>
                 </dl>
             </div>
         </article>
@@ -80,7 +83,7 @@ No Space
         </div>
         <div class="cart-collaterals">
             <a href="{% url 'web:limpiarCarrito' %}" class="checkout-button button">Limpiar Carrito</a>
-            <a href="{% url 'web:registrarPedido' %}" class="checkout-button button">Realizar Pedido</a>
+            <a href="#" class="checkout-button button">Realizar Pedido</a>
             <div class="order-total">
                 <p class="cart-totals-ttl">Total</p>
                 <p class="cart-totals-val">${{request.session.cartMontoTotal}}</p>

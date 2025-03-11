@@ -16,5 +16,7 @@ urlpatterns = [
     path('actualizarCliente', views.actualizarCliente, name='actualiarCliente'),
     path('login', views.loginUsuario, name='loginUsuario'),
     path('logout', views.logoutUsuario, name='logoutUsuario'),
-    path('registrarPedido', views.registarPedido, name='registrarPedido')
+    path('registrarPedido', views.registarPedido, name='registrarPedido'),
+    path('confirmarPedido', views.confirmarPedido, name='confirmarPedido'),
+    path('gracias', views.gracias, name='gracias')
 ]

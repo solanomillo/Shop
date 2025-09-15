@@ -1,6 +1,5 @@
 django==4.2
 Pillow
-mysqlclient
 django-admin-tailwind
 django-paypal
 python-decouple

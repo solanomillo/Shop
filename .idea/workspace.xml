@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c70ed4c-3cee-45d4-8624-6b6cc81daee0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Shop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Shop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/settings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/settings/dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/settings/prod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/carrito.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/migrations/0002_cliente.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/migrations/0003_pedido_pedidodetalle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/chosen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/elements-media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/elements.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/flexslider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/ion.rangeSlider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/jquery.fancybox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/jquery.formstyler.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/jquery.mThumbnailScroller.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/MontserratBlack.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/MontserratBlack.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/MontserratBlack.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/MontserratBlack.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/MontserratBlack.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/added.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/ajaxloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/arr1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/ava.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/chk1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/chosen-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/chosen-sprite@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/close2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/close3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/close4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/compare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/fancybox-nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/fancybox_loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/fancybox_loading@2x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/fancybox_overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/fancybox_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/fancybox_sprite@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/favorites.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/fs.pager.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/fs.prevnext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/fs.spinner.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/icocart1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/icocompare1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/icofav1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/menu-section-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/menu-section.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/menu-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/menu1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/menuactive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/pager-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/personal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/quickview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/radio1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/remove1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/sprite-skin-flat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/testimonials-angle1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/testimonials-angle2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/testimonials-angle3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/testimonials-angle4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/vc_multishop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/img/zoom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/jquery-1.12.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/jquery-plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/maps/ResizeSensor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/maps/ResizeSensor.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/maps/theia-sticky-sidebar.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/maps/theia-sticky-sidebar.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/bootstrap.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/chosen.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/elements-media.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/elements.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/flexslider.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/font-awesome.min.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/ion.rangeSlider.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/ionicons.min.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/jquery.fancybox.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/jquery.formstyler.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/jquery.mThumbnailScroller.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/media.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/less/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/carrito.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/compra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/cuenta.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/gracias.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/includes/catalogo/catalogo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/includes/catalogo/categorias.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/includes/header_carrito.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/includes/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/includes/relacionados.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/payment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/pedido.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/plantilla.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/producto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2tB340mIaaHm2Fl88yGv99yNstq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/Repositorios/Shop",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Repositorios\Shop\settings" />
+      <recent name="E:\Repositorios\Shop\web\templates" />
+      <recent name="E:\Repositorios\Shop\web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Repositorios\Shop\shop" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c70ed4c-3cee-45d4-8624-6b6cc81daee0" name="Changes" comment="" />
+      <created>1739811446614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739811446614</updated>
+    </task>
+    <servers />
+  </component>
+</project>
